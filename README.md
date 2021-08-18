@@ -1,6 +1,6 @@
 
 
-https://user-images.githubusercontent.com/84317073/129928240-e091779f-889c-4970-9a0c-0610e0e70ff6.mp4
+
 
 # Employee Tracker
     A CLI content management system for managing a company's employees
@@ -32,7 +32,7 @@ As a business owner  I want to be able to view and manage the departments, roles
     mySql
 
 # Demo Video
- Demo Video is included as video file 
+ https://user-images.githubusercontent.com/84317073/129928240-e091779f-889c-4970-9a0c-0610e0e70ff6.mp4
 
 # How to Contribute 
     Simply run the pull request from you github page
