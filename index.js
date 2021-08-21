@@ -112,19 +112,13 @@ function addEmployee() {
           var roleArray = [];
                   
           for (let i = 0; i < res.length; i++) {
-
               //push title and role ID to a arry 
               roleArray.push(res[i].id+ " . " + res[i].title);
                   
           }
-          console.log
-
-            return roleArray
-         
+                return roleArray; 
           },
-         
-
-              
+            
       },
       
     ])
@@ -300,8 +294,7 @@ function addEmployee() {
               console.table(res);
               start();
                })
-            }
-    
+            }  
 
     function updateEmployeeRole()
     {
